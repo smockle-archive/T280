@@ -2,7 +2,7 @@
 
 ## About
 
-[Swizzle](https://blog.newrelic.com/2014/04/16/right-way-to-swizzle/) the official Twitter client for macOS to add support for 280 character tweets.
+[Swizzle](http://nshipster.com/method-swizzling/) the official Twitter client for macOS to add support for 280 character tweets.
 
 <img width="329" alt="tweet" src="https://user-images.githubusercontent.com/3104489/33468425-0dfb8118-d611-11e7-924d-27514eab13e3.png">
 
