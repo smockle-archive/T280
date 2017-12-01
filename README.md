@@ -1,6 +1,15 @@
 # T280
 
+## About
+
 [Swizzle](https://blog.newrelic.com/2014/04/16/right-way-to-swizzle/) the official Twitter client for MacOS to add support for 280 character tweets.
+
+## Usage
+
+* To launch graphically, open the `Debug` folder and double-click `T280.app`.
+* To launch from the command-line, run `./Debug/t280.sh`.
+
+## Credits
 
 This project was inspired by [this blog post](https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/) and [this tweet](https://twitter.com/kracksundkatzen/status/930215665239248896).
 
