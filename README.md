@@ -6,8 +6,8 @@
 
 ## Usage
 
-* To launch graphically, open the `Debug` folder and double-click `T280.app`.
-* To launch from the command-line, run `./Debug/t280.sh`.
+* To launch graphically, open the `Release` folder and double-click `T280.app`.
+* To launch from the command-line, run `./Release/t280.sh`.
 
 ## Credits
 
